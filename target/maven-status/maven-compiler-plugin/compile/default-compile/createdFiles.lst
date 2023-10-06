@@ -1,0 +1,15 @@
+com\pxp\SQLite\demo\entity\UsuarioEntity.class
+com\pxp\SQLite\demo\JWTAuthorizationFilter.class
+com\pxp\SQLite\demo\repository\SolicitudRepository.class
+com\pxp\SQLite\demo\controller\UsuarioController.class
+com\pxp\SQLite\demo\service\SolicitudService.class
+com\pxp\SQLite\demo\controller\HelloWorldController.class
+com\pxp\SQLite\demo\SpringBootAndSqLiteApplication.class
+com\pxp\SQLite\demo\controller\UserController.class
+com\pxp\SQLite\demo\entity\User.class
+com\pxp\SQLite\demo\SpringBootAndSqLiteApplication$WebSecurityConfig.class
+com\pxp\SQLite\demo\entity\SolicitudEntity.class
+com\pxp\SQLite\demo\repository\UsuarioRepository.class
+com\pxp\SQLite\demo\controller\SolicitudController.class
+com\pxp\SQLite\demo\dialect\SQLiteDialect.class
+com\pxp\SQLite\demo\service\UsuarioService.class
